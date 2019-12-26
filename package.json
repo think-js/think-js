@@ -1,0 +1,36 @@
+{
+  "name": "think-js",
+  "version": "1.0.0",
+  "description": "think-js",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm -s run start1",
+    "start1": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/think-js/think-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "vdom",
+    "framework",
+    "react",
+    "preact",
+    "superfine"
+  ],
+  "author": "think-js.com",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.3.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ws": "^7.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/think-js/think-js/issues"
+  },
+  "homepage": "https://github.com/think-js/think-js#readme"
+}
